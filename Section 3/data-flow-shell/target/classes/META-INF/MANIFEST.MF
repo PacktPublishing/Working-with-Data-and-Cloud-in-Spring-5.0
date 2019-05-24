@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: data-flow-shell
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sathyanarayanane
+Implementation-Vendor-Id: com.mastering.spring.cloud.data.flow
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/data-flow-sh
+ ell/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

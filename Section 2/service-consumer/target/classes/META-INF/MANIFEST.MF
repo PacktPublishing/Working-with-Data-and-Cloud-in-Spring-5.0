@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: service-consumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sathyanarayanane
+Implementation-Vendor-Id: com.mastering.spring.consumer
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/service-cons
+ umer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
